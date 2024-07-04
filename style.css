@@ -28,3 +28,11 @@ a:visited {
     color: rgb(45, 45, 45);
     text-align: center;
 }
+
+.recipe__img {
+    width: 220px;
+    height: auto;
+    border-radius: 4px;
+    display: block;
+    margin: 0 auto;
+}
