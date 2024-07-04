@@ -1,0 +1,24 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:visited {
+    color: #ff2222;
+}
+
+.main_menu__link, .home__link {
+    font-size: 20px;
+    color: #ff7b22;
+}
+
+.main_menu__link {
+    text-decoration: none;
+}
+
+.main_menu__element {
+    list-style: none;
+}
+
+.home__link {
+    font-weight: bold;
+}
