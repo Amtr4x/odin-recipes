@@ -9,6 +9,10 @@ body {
     padding: 20px;
 }
 
+li {
+    margin-bottom: 10px;
+}
+
 a:visited {
     color: #ff2222;
 }
