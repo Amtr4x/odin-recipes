@@ -2,6 +2,13 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body {
+    max-width: 750px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
 a:visited {
     color: #ff2222;
 }
