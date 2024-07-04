@@ -22,3 +22,9 @@ a:visited {
 .home__link {
     font-weight: bold;
 }
+
+.main_title{
+    font-size: 26px;
+    color: rgb(45, 45, 45);
+    text-align: center;
+}
